@@ -1,0 +1,8 @@
+#ignore data
+cell_images/
+
+#ignore all images from output
+*.png
+
+#ignore created network models
+*.h5
