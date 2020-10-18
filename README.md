@@ -8,9 +8,9 @@ Images are taken from Kaggle dataset: https://www.kaggle.com/iarunava/cell-image
 Input data is images of cells, divided into two subsets - healthy and parasitized.
 
 Healthy cell example:
-![Healthy cell image](./img/healthy.jpg)
+![Healthy cell image](./img/healthy.png)
 
 Parasitized cell example:
-![Parasitized cell image](./img/parasitized.jpg)
+![Parasitized cell image](./img/parasitized.png)
 
 Simple convolutional neural network with two convolutional layers is able to detect parasitized cells with validated accuracy around 95%.
