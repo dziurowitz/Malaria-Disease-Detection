@@ -1,7 +1,7 @@
 # Malaria-Disease-Detection
 Malaria detection on histopathological images using Convolutional Neural Networks
 
-Script written in Python 3.6, creating classifier to detect if histopathological image of blood cell is parasitized by malaria parasite.
+Script written in Python 3.6, creating classifier to detect if histopathological image of blood cell is infected by malaria parasite.
 
 Images are taken from Kaggle dataset: https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria
 
